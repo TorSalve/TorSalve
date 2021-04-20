@@ -1,3 +1,3 @@
 Hey there 🌳
 
-I’m currently working on VR.
+I’m currently working with mid-air haptics.
